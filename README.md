@@ -3,7 +3,7 @@
 Our Python code/Jupyter Notebooks are in the "Python_JupyterNotebooks" folder and our image files are in the "Image_Files" folder
 
     The majority of the analysis code is in the "Happy_vs_ Fragile.ipynb" file
-    There are separate files for the Top 20 Line Graph and Heatmap
+    There are additional separate files for the Top 20 Line Graph and Heatmap
 
 In order to run our main code in the "Happy_vs_ Fragile.ipynb" file, you will need to have an API key for Geoapify. You can get a free API key at: https://myprojects.geoapify.com/projects. Once you have an API key, you will need to have it stored in a .gitignore file created in the same folder as the Jupyter Notebook for this project. You can name the file “api_keys.py” or something similar and within that file you will need to have the following saved:
 
