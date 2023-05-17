@@ -13,7 +13,7 @@ In order to run our main code in the "Happy_vs_ Fragile.ipynb" file, you will ne
 
 You will also need the following CSV files which we used for our data analysis:
 
-    DataForTable2.1WHR2023, fsi-2022-download.csv, DataForFigure2.1WHR2023
+    DataForTable2.1WHR2023, DataForFigure2.1WHR2023, fsi-2022-download.csv
 
     These files are in the "CSV_Files" folder
 
