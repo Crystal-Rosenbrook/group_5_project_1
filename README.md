@@ -17,4 +17,4 @@ You will also need the following CSV files which we used for our data analysis:
 
     These files are in the "CSV_Files" folder
 
-We referenced course files, our instructor and TAs, Slack, a BSC tutor, ChatGPT, Geoapify.com, pitch.com and Slack Overflow to complete this project
+We referenced worldhappiness.report, fragilestatesindex.org, Geoapify.com, course files, our instructor and TAs, Slack, a BSC tutor, ChatGPT, pitch.com and Slack Overflow to complete this project
